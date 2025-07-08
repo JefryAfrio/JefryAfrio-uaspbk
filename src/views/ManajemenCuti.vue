@@ -313,7 +313,7 @@
 
 <script setup>
 import { ref, onMounted, computed } from "vue";
-
+// fetch(`${API_BASE}/cuti`)
 const cuti = ref([]);
 const pegawai = ref([]);
 const filteredPegawai = ref([]);
@@ -343,11 +343,9 @@ const form = ref({
 const pendingCount = computed(() => 
   cuti.value.filter(c => c.status === 'Menunggu Persetujuan').length
 );
-
 const approvedCount = computed(() => 
   cuti.value.filter(c => c.status === 'Disetujui').length
 );
-
 const rejectedCount = computed(() => 
   cuti.value.filter(c => c.status === 'Ditolak').length
 );
@@ -372,23 +370,9 @@ const columns = [
     align: "center",
     sortable: true,
   },
-  { 
-    name: "alasan", 
-    label: "Alasan", 
-    field: "alasan", 
-    align: "left"
-  },
-  { 
-    name: "status", 
-    label: "Status", 
-    field: "status", 
-    align: "center" 
-  },
-  { 
-    name: "aksi", 
-    label: "Aksi", 
-    align: "center" 
-  },
+  { name: "alasan", label: "Alasan", field: "alasan", align: "left" },
+  { name: "status", label: "Status", field: "status", align: "center" },
+  { name: "aksi", label: "Aksi", align: "center" },
 ];
 
 const getInitials = (name) => {
@@ -399,11 +383,7 @@ const getInitials = (name) => {
 const formatDate = (dateString) => {
   if (!dateString) return '-';
   const date = new Date(dateString);
-  return date.toLocaleDateString('id-ID', { 
-    day: '2-digit', 
-    month: 'short', 
-    year: 'numeric' 
-  });
+  return date.toLocaleDateString('id-ID', { day: '2-digit', month: 'short', year: 'numeric' });
 };
 
 const calculateDuration = (startDate, endDate) => {
@@ -411,8 +391,7 @@ const calculateDuration = (startDate, endDate) => {
   const start = new Date(startDate);
   const end = new Date(endDate);
   const diffTime = Math.abs(end - start);
-  const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)) + 1;
-  return diffDays;
+  return Math.ceil(diffTime / (1000 * 60 * 60 * 24)) + 1;
 };
 
 const getStatusColor = (status) => {
@@ -470,9 +449,7 @@ const getJabatanTextColor = (jabatan) => {
 const getNamaPegawai = (idObj) => {
   const id = typeof idObj === "object" && idObj !== null ? idObj.id : idObj;
   const found = pegawai.value.find((p) => p.id === id);
-  return found
-    ? found.nama
-    : `❗ Pegawai tidak ditemukan untuk ID: ${JSON.stringify(idObj)}`;
+  return found ? found.nama : `❗ Pegawai tidak ditemukan untuk ID: ${JSON.stringify(idObj)}`;
 };
 
 const getJabatanPegawai = (idObj) => {
@@ -492,13 +469,13 @@ const applyFilter = () => {
 const fetchData = async () => {
   try {
     const [resPegawai, resCuti] = await Promise.all([
-      fetch("http://localhost:3002/pegawai"),
-      fetch("http://localhost:3002/cuti"),
+      fetch(import.meta.env.PROD ? '/pegawai.json' : 'http://localhost:3002/pegawai'),
+      fetch(import.meta.env.PROD ? '/cuti.json' : 'http://localhost:3002/cuti')
+
     ]);
     pegawai.value = await resPegawai.json();
     cuti.value = await resCuti.json();
     filteredCuti.value = [...cuti.value];
-
     jabatanList.value = [...new Set(pegawai.value.map((p) => p.jabatan))];
   } catch (err) {
     console.error("Gagal fetch:", err);
@@ -545,14 +522,10 @@ const bukaDialogEdit = (row) => {
   dialogTerbuka.value = true;
 };
 
-const lihatDetail = (row) => {
-  console.log('Lihat detail:', row);
-};
-
 const simpanCuti = async () => {
   const url = modeEdit.value
-    ? `http://localhost:3002/cuti/${editId.value}`
-    : "http://localhost:3002/cuti";
+    ? `${API_BASE}/cuti/${editId.value}`
+    : `${API_BASE}/cuti`;
 
   const method = modeEdit.value ? "PUT" : "POST";
 
@@ -576,7 +549,6 @@ const simpanCuti = async () => {
     if (!res.ok) throw new Error("Gagal menyimpan");
     dialogTerbuka.value = false;
     await fetchData();
-
     alert("Data berhasil disimpan.");
   } catch (err) {
     console.error(err);
@@ -589,7 +561,7 @@ const hapusCuti = async (id) => {
   if (!konfirmasi) return;
 
   try {
-    const res = await fetch(`http://localhost:3002/cuti/${id}`, {
+    const res = await fetch(`${API_BASE}/cuti/${id}`, {
       method: "DELETE",
     });
     if (!res.ok) throw new Error("Gagal menghapus");
@@ -602,6 +574,7 @@ const hapusCuti = async (id) => {
 
 onMounted(fetchData);
 </script>
+
 
 <style scoped lang="scss">
 .bg-page {

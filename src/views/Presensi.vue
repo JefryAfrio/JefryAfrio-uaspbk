@@ -413,39 +413,39 @@
 <script>
 export default {
   name: 'Presensi',
- data() {
-  return {
-    pegawai: [],
-    filteredPegawai: [],
-    presensiHariIni: [],
-    riwayat: [],
-    dialogManual: false,
+  data() {
+    return {
+      pegawai: [],
+      filteredPegawai: [],
+      presensiHariIni: [],
+      riwayat: [],
+      dialogManual: false,
 
-    manualTanggal: '',
-    manualJabatan: '',
-    manualPegawaiId: null,
-    manualJamMasuk: '',
-    manualJamKeluar: '',
+      manualTanggal: '',
+      manualJabatan: '',
+      manualPegawaiId: null,
+      manualJamMasuk: '',
+      manualJamKeluar: '',
 
-    manualNotif: {
-      show: false,
-      type: '',
-      message: ''
-    },
+      manualNotif: {
+        show: false,
+        type: '',
+        message: ''
+      },
 
-    columns: [
-      { name: 'nama', label: 'Nama Pegawai', field: 'nama', align: 'left', sortable: true },
-      { name: 'jabatan', label: 'Jabatan', field: 'jabatan', align: 'left', sortable: true },
-      { name: 'jamMasuk', label: 'Jam Masuk', field: 'jamMasuk', align: 'center', sortable: true },
-      { name: 'jamKeluar', label: 'Jam Keluar', field: 'jamKeluar', align: 'center', sortable: true },
-      { name: 'durasi', label: 'Durasi Kerja', field: 'durasi', align: 'center', sortable: true },
-    ],
+      columns: [
+        { name: 'nama', label: 'Nama Pegawai', field: 'nama', align: 'left', sortable: true },
+        { name: 'jabatan', label: 'Jabatan', field: 'jabatan', align: 'left', sortable: true },
+        { name: 'jamMasuk', label: 'Jam Masuk', field: 'jamMasuk', align: 'center', sortable: true },
+        { name: 'jamKeluar', label: 'Jam Keluar', field: 'jamKeluar', align: 'center', sortable: true },
+        { name: 'durasi', label: 'Durasi Kerja', field: 'durasi', align: 'center', sortable: true },
+      ],
 
-    showRiwayat: false,
-    selectedDate: null,
-    presensiByDate: [],
-  };
-},
+      showRiwayat: false,
+      selectedDate: null,
+      presensiByDate: [],
+    };
+  },
   watch: {
     selectedDate(newDate) {
       this.fetchPresensiByDate(newDate);
@@ -462,76 +462,48 @@ export default {
     },
   },
   methods: {
-  showNotif(type, message) {
-    this.manualNotif.show = true;
-    this.manualNotif.type = type;
-    this.manualNotif.message = message;
+    showNotif(type, message) {
+      this.manualNotif.show = true;
+      this.manualNotif.type = type;
+      this.manualNotif.message = message;
 
-    setTimeout(() => {
-      this.manualNotif.show = false;
-    }, 3000);
-  },
-     isTerlambat(pegawai) {
-        if (pegawai.jabatan === 'Cinema Manager') return false;
+      setTimeout(() => {
+        this.manualNotif.show = false;
+      }, 3000);
+    },
+    isTerlambat(pegawai) {
+      if (pegawai.jabatan === 'Cinema Manager') return false;
 
-        const [jam, menit] = pegawai.jamMasuk.split(':').map(Number);
-        const totalMenitMasuk = jam * 60 + menit;
+      const [jam, menit] = pegawai.jamMasuk.split(':').map(Number);
+      const totalMenitMasuk = jam * 60 + menit;
 
-        let batasPagi = 0;
-        let batasSore = 0;
+      let batasPagi = 0;
+      let batasSore = 0;
 
-        // Tetapkan batas keterlambatan berdasarkan jabatan
-        switch (pegawai.jabatan) {
-          case 'Manager':
-            batasPagi = 7 * 60 + 45; // 07:45
-            batasSore = 16 * 60 + 15; // 16:15
-            break;
-          case 'Daily Worker':
-            batasPagi = 7 * 60 + 15; // 07:15
-            batasSore = 15 * 60 + 45; // 15:45
-            break;
-          case 'Cleaning Staff':
-            batasPagi = 6 * 60 + 10; // 06:10
-            batasSore = 16 * 60 + 10; // 16:10
-            break;
-          default:
-            batasPagi = 9 * 60; // fallback (jika jabatan tidak dikenali)
-            batasSore = 16 * 60 + 15;
-        }
+      switch (pegawai.jabatan) {
+        case 'Manager': batasPagi = 465; batasSore = 975; break;
+        case 'Daily Worker': batasPagi = 435; batasSore = 945; break;
+        case 'Cleaning Staff': batasPagi = 370; batasSore = 970; break;
+        default: batasPagi = 540; batasSore = 975;
+      }
 
-        // Deteksi shift
-        if (totalMenitMasuk < 12 * 60) {
-          // Shift Pagi
-          return totalMenitMasuk > batasPagi;
-        } else {
-          // Shift Sore
-          return totalMenitMasuk > batasSore;
-        }
-      },
+      return totalMenitMasuk < 720 ? totalMenitMasuk > batasPagi : totalMenitMasuk > batasSore;
+    },
     getCurrentDateString() {
-      const options = { 
-        weekday: 'long', 
-        year: 'numeric', 
-        month: 'long', 
-        day: 'numeric' 
-      };
+      const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
       return new Date().toLocaleDateString('id-ID', options);
     },
-
     formatDate(dateString) {
       if (!dateString) return '';
-      const options = { 
-        year: 'numeric', 
-        month: 'long', 
-        day: 'numeric' 
-      };
-      return new Date(dateString).toLocaleDateString('id-ID', options);
+      return new Date(dateString).toLocaleDateString('id-ID', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+      });
     },
-
     getLateCount() {
       return this.presensiHariIni.filter(p => this.isTerlambat(p)).length;
     },
-
     getJobChipClass(jabatan) {
       const jabatanClasses = {
         'Manager': 'job-chip-manager',
@@ -541,10 +513,8 @@ export default {
       };
       return jabatanClasses[jabatan] || 'job-chip-default';
     },
-
     getDurationChipClass(durasi) {
       if (!durasi) return 'duration-chip-none';
-      
       const hours = parseInt(durasi.split('j')[0]) || 0;
       if (hours >= 8) return 'duration-chip-full';
       if (hours >= 6) return 'duration-chip-partial';
@@ -553,62 +523,57 @@ export default {
 
     async fetchPegawai() {
       try {
-        const res = await fetch('http://localhost:3002/pegawai');
+        const res = await fetch(import.meta.env.PROD ? '/pegawai.json' : 'http://localhost:3002/pegawai');
+        if (!res.ok) throw new Error('Gagal fetch pegawai');
         this.pegawai = await res.json();
       } catch (error) {
         console.error('Error fetching pegawai:', error);
-        this.$q.notify({
-          type: 'negative',
-          message: 'Gagal memuat data pegawai'
-        });
+        this.$q.notify({ type: 'negative', message: 'Gagal memuat data pegawai' });
       }
     },
 
     async simpanManual() {
-  if (!this.manualTanggal || !this.manualPegawaiId || !this.manualJamMasuk || !this.manualJamKeluar) {
-    this.showNotif('warning', 'Harap isi semua data terlebih dahulu');
-    return;
-  }
+      if (!this.manualTanggal || !this.manualPegawaiId || !this.manualJamMasuk || !this.manualJamKeluar) {
+        this.showNotif('warning', 'Harap isi semua data terlebih dahulu');
+        return;
+      }
 
-  const pegawai = this.pegawai.find(p => p.id === this.manualPegawaiId);
+      const pegawai = this.pegawai.find(p => p.id === this.manualPegawaiId);
+      if (!pegawai) {
+        this.showNotif('negative', 'Data pegawai tidak ditemukan');
+        return;
+      }
 
-  if (!pegawai) {
-    this.showNotif('negative', 'Data pegawai tidak ditemukan');
-    return;
-  }
+      const durasi = this.hitungDurasi(this.manualJamMasuk, this.manualJamKeluar);
+      const dataPresensi = {
+        id: Date.now(),
+        tanggal: this.manualTanggal,
+        pegawaiId: pegawai.id,
+        nama: pegawai.nama,
+        jabatan: pegawai.jabatan,
+        jamMasuk: this.manualJamMasuk,
+        jamKeluar: this.manualJamKeluar,
+        durasi
+      };
 
-  const durasi = this.hitungDurasi(this.manualJamMasuk, this.manualJamKeluar);
+      try {
+        const res = await fetch('http://localhost:3002/absensi', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(dataPresensi)
+        });
 
-  const dataPresensi = {
-    id: Date.now(),
-    tanggal: this.manualTanggal,
-    pegawaiId: pegawai.id,
-    nama: pegawai.nama,
-    jabatan: pegawai.jabatan,
-    jamMasuk: this.manualJamMasuk,
-    jamKeluar: this.manualJamKeluar,
-    durasi
-  };
+        if (!res.ok) throw new Error('Gagal menyimpan presensi');
 
-  try {
-    const res = await fetch('http://localhost:3002/absensi', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(dataPresensi)
-    });
-
-    if (!res.ok) throw new Error('Gagal menyimpan presensi.');
-
-    this.showNotif('positive', 'Presensi berhasil disimpan!');
-    this.dialogManual = false;
-    this.fetchPresensiHariIni();
-    this.resetManualForm();
-  } catch (error) {
-    console.error('Gagal menyimpan data:', error);
-    this.showNotif('negative', 'Terjadi kesalahan saat menyimpan presensi');
-  }
-},
-
+        this.showNotif('positive', 'Presensi berhasil disimpan!');
+        this.dialogManual = false;
+        this.fetchPresensiHariIni();
+        this.resetManualForm();
+      } catch (error) {
+        console.error('Gagal menyimpan data:', error);
+        this.showNotif('negative', 'Terjadi kesalahan saat menyimpan presensi');
+      }
+    },
 
     resetManualForm() {
       this.manualTanggal = '';
@@ -627,30 +592,26 @@ export default {
     async fetchPresensiHariIni() {
       try {
         const today = new Date().toISOString().split('T')[0];
-        const res = await fetch('http://localhost:3002/absensi');
+        const res = await fetch(import.meta.env.PROD ? '/absensi.json' : 'http://localhost:3002/absensi');
+        if (!res.ok) throw new Error('Gagal fetch absensi');
         const data = await res.json();
         this.presensiHariIni = data.filter(p => p.tanggal === today);
       } catch (error) {
         console.error('Error fetching presensi:', error);
-        this.$q.notify({
-          type: 'negative',
-          message: 'Gagal memuat data presensi'
-        });
+        this.$q.notify({ type: 'negative', message: 'Gagal memuat data presensi' });
       }
     },
 
     async fetchPresensiByDate(date) {
       if (!date) return;
       try {
-        const res = await fetch('http://localhost:3002/absensi');
+        const res = await fetch(import.meta.env.PROD ? '/absensi.json' : 'http://localhost:3002/absensi');
+        if (!res.ok) throw new Error('Gagal fetch presensi');
         const data = await res.json();
         this.presensiByDate = data.filter(p => p.tanggal === date);
       } catch (error) {
         console.error('Error fetching presensi by date:', error);
-        this.$q.notify({
-          type: 'negative',
-          message: 'Gagal memuat data presensi'
-        });
+        this.$q.notify({ type: 'negative', message: 'Gagal memuat data presensi' });
       }
     },
 
@@ -662,9 +623,6 @@ export default {
     hitungDurasi(masuk, keluar) {
       const [jam1, menit1] = masuk.split(':').map(Number);
       const [jam2, menit2] = keluar.split(':').map(Number);
-
-      if (isNaN(jam1) || isNaN(jam2)) return '0j 0m';
-
       const totalMenit = (jam2 * 60 + menit2) - (jam1 * 60 + menit1);
       const jam = Math.floor(totalMenit / 60);
       const menit = totalMenit % 60;
@@ -690,6 +648,8 @@ export default {
   }
 };
 </script>
+
+
 
 <style lang="scss" scoped>
 .presensi-container {
