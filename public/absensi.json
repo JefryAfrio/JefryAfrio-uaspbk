@@ -1,0 +1,2322 @@
+[
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f2"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b88c"
+  },
+  {
+    "pegawaiId": "3",
+    "nama": "Nanda Eka Putra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:300",
+    "durasi": "8.5 jam",
+    "id": "2c55"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d5fd"
+  },
+  {
+    "pegawaiId": "8",
+    "nama": "Citra Ayu Lestari",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656a"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "661b"
+  },
+  {
+    "pegawaiId": "10",
+    "nama": "Salsa Maulida",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a038"
+  },
+  {
+    "pegawaiId": "11",
+    "nama": "Putri Karina",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14bb"
+  },
+  {
+    "pegawaiId": "19",
+    "nama": "Agus Santoso",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca83"
+  },
+  {
+    "pegawaiId": "20",
+    "nama": "Fajar Kurniawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3860"
+  },
+  {
+    "pegawaiId": "21",
+    "nama": "Dimas Aryo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be58"
+  },
+  {
+    "pegawaiId": "22",
+    "nama": "Bagus Wirawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe72"
+  },
+  {
+    "pegawaiId": "23",
+    "nama": "Yoga Prasetyo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-02",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a23d"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f3"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b88d"
+  },
+  {
+    "pegawaiId": "4",
+    "nama": "Prima Saputra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c56"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d5fe"
+  },
+  {
+    "pegawaiId": "12",
+    "nama": "Bella Anjani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656b"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "661c"
+  },
+  {
+    "pegawaiId": "13",
+    "nama": "Rizky Ananda",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a039"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14bc"
+  },
+  {
+    "pegawaiId": "19",
+    "nama": "Agus Santoso",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca84"
+  },
+  {
+    "pegawaiId": "24",
+    "nama": "Lestari Wulandari",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3861"
+  },
+  {
+    "pegawaiId": "21",
+    "nama": "Dimas Aryo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be59"
+  },
+  {
+    "pegawaiId": "25",
+    "nama": "Surya Aditya",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe73"
+  },
+  {
+    "pegawaiId": "26",
+    "nama": "Nina Oktaviani",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-03",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a23e"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-04",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b88e"
+  },
+  {
+    "pegawaiId": "3",
+    "nama": "Nanda Eka Putra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-04",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c57"
+  },
+  {
+    "pegawaiId": "8",
+    "nama": "Citra Ayu Lestari",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-04",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d5ff"
+  },
+  {
+    "pegawaiId": "12",
+    "nama": "Bella Anjani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-04",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656c"
+  },
+  {
+    "pegawaiId": "10",
+    "nama": "Salsa Maulida",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-04",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "661d"
+  },
+  {
+    "pegawaiId": "13",
+    "nama": "Rizky Ananda",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-04",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a03a"
+  },
+  {
+    "pegawaiId": "15",
+    "nama": "Dinda Maharani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-04",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14bd"
+  },
+  {
+    "pegawaiId": "20",
+    "nama": "Fajar Kurniawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-04",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca85"
+  },
+  {
+    "pegawaiId": "24",
+    "nama": "Lestari Wulandari",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-04",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3862"
+  },
+  {
+    "pegawaiId": "21",
+    "nama": "Dimas Aryo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-04",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be5a"
+  },
+  {
+    "pegawaiId": "22",
+    "nama": "Bagus Wirawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-04",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe74"
+  },
+  {
+    "pegawaiId": "1638",
+    "nama": "Olo Steven Panggabean",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-04",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a23f"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f4"
+  },
+  {
+    "pegawaiId": "3",
+    "nama": "Nanda Eka Putra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b88f"
+  },
+  {
+    "pegawaiId": "4",
+    "nama": "Prima Saputra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c58"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d600"
+  },
+  {
+    "pegawaiId": "11",
+    "nama": "Putri Karina",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656d"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "661e"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a03b"
+  },
+  {
+    "pegawaiId": "15",
+    "nama": "Dinda Maharani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14be"
+  },
+  {
+    "pegawaiId": "16",
+    "nama": "Fikri Hidayat",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14bf"
+  },
+  {
+    "pegawaiId": "19",
+    "nama": "Agus Santoso",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca86"
+  },
+  {
+    "pegawaiId": "20",
+    "nama": "Fajar Kurniawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3863"
+  },
+  {
+    "pegawaiId": "23",
+    "nama": "Yoga Prasetyo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be5b"
+  },
+  {
+    "pegawaiId": "25",
+    "nama": "Surya Aditya",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe75"
+  },
+  {
+    "pegawaiId": "26",
+    "nama": "Nina Oktaviani",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-05",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a240"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b890"
+  },
+  {
+    "pegawaiId": "4",
+    "nama": "Prima Saputra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c59"
+  },
+  {
+    "pegawaiId": "8",
+    "nama": "Citra Ayu Lestari",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d601"
+  },
+  {
+    "pegawaiId": "12",
+    "nama": "Bella Anjani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656e"
+  },
+  {
+    "pegawaiId": "10",
+    "nama": "Salsa Maulida",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "661f"
+  },
+  {
+    "pegawaiId": "13",
+    "nama": "Rizky Ananda",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a03c"
+  },
+  {
+    "pegawaiId": "17",
+    "nama": "Yuni Kurniasari",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14c0"
+  },
+  {
+    "pegawaiId": "18",
+    "nama": "Dian Sasmita",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14c1"
+  },
+  {
+    "pegawaiId": "20",
+    "nama": "Fajar Kurniawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca87"
+  },
+  {
+    "pegawaiId": "24",
+    "nama": "Lestari Wulandari",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3864"
+  },
+  {
+    "pegawaiId": "22",
+    "nama": "Bagus Wirawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be5c"
+  },
+  {
+    "pegawaiId": "23",
+    "nama": "Yoga Prasetyo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe76"
+  },
+  {
+    "pegawaiId": "1638",
+    "nama": "Olo Steven Panggabean",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-06",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a241"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-07",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f5"
+  },
+  {
+    "pegawaiId": "3",
+    "nama": "Nanda Eka Putra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-07",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b891"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-07",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c5a"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-07",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d602"
+  },
+  {
+    "pegawaiId": "11",
+    "nama": "Putri Karina",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-07",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656f"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-07",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "6620"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-07",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a03d"
+  },
+  {
+    "pegawaiId": "16",
+    "nama": "Fikri Hidayat",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-07",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14c2"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f3"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b88d"
+  },
+  {
+    "pegawaiId": "4",
+    "nama": "Prima Saputra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c56"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d5fe"
+  },
+  {
+    "pegawaiId": "12",
+    "nama": "Bella Anjani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656b"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "661c"
+  },
+  {
+    "pegawaiId": "13",
+    "nama": "Rizky Ananda",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a039"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14bc"
+  },
+  {
+    "pegawaiId": "19",
+    "nama": "Agus Santoso",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca84"
+  },
+  {
+    "pegawaiId": "24",
+    "nama": "Lestari Wulandari",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3861"
+  },
+  {
+    "pegawaiId": "21",
+    "nama": "Dimas Aryo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be59"
+  },
+  {
+    "pegawaiId": "25",
+    "nama": "Surya Aditya",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe73"
+  },
+  {
+    "pegawaiId": "26",
+    "nama": "Nina Oktaviani",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-08",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a23e"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-09",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f5"
+  },
+  {
+    "pegawaiId": "3",
+    "nama": "Nanda Eka Putra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-09",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b891"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-09",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c5a"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-07",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d602"
+  },
+  {
+    "pegawaiId": "11",
+    "nama": "Putri Karina",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-09",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656f"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-09",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "6620"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-09",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a03d"
+  },
+  {
+    "pegawaiId": "16",
+    "nama": "Fikri Hidayat",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-09",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14c2"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f7"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b895"
+  },
+  {
+    "pegawaiId": "4",
+    "nama": "Prima Saputra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c5e"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d606"
+  },
+  {
+    "pegawaiId": "12",
+    "nama": "Bella Anjani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "6573"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "6624"
+  },
+  {
+    "pegawaiId": "13",
+    "nama": "Rizky Ananda",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a041"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14c6"
+  },
+  {
+    "pegawaiId": "19",
+    "nama": "Agus Santoso",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca88"
+  },
+  {
+    "pegawaiId": "24",
+    "nama": "Lestari Wulandari",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3865"
+  },
+  {
+    "pegawaiId": "21",
+    "nama": "Dimas Aryo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be5d"
+  },
+  {
+    "pegawaiId": "25",
+    "nama": "Surya Aditya",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe77"
+  },
+  {
+    "pegawaiId": "26",
+    "nama": "Nina Oktaviani",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-10",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a242"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f9"
+  },
+  {
+    "pegawaiId": "3",
+    "nama": "Nanda Eka Putra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b899"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c62"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d60a"
+  },
+  {
+    "pegawaiId": "11",
+    "nama": "Putri Karina",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "6577"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "6628"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a045"
+  },
+  {
+    "pegawaiId": "16",
+    "nama": "Fikri Hidayat",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14ca"
+  },
+  {
+    "pegawaiId": "19",
+    "nama": "Agus Santoso",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca8c"
+  },
+  {
+    "pegawaiId": "24",
+    "nama": "Lestari Wulandari",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3869"
+  },
+  {
+    "pegawaiId": "21",
+    "nama": "Dimas Aryo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be61"
+  },
+  {
+    "pegawaiId": "25",
+    "nama": "Surya Aditya",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe7b"
+  },
+  {
+    "pegawaiId": "26",
+    "nama": "Nina Oktaviani",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-11",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a246"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71fb"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b89d"
+  },
+  {
+    "pegawaiId": "4",
+    "nama": "Prima Saputra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c66"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d60e"
+  },
+  {
+    "pegawaiId": "12",
+    "nama": "Bella Anjani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "657b"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "662c"
+  },
+  {
+    "pegawaiId": "13",
+    "nama": "Rizky Ananda",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a049"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14ce"
+  },
+  {
+    "pegawaiId": "19",
+    "nama": "Agus Santoso",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca90"
+  },
+  {
+    "pegawaiId": "24",
+    "nama": "Lestari Wulandari",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "386d"
+  },
+  {
+    "pegawaiId": "21",
+    "nama": "Dimas Aryo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be65"
+  },
+  {
+    "pegawaiId": "25",
+    "nama": "Surya Aditya",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe7f"
+  },
+  {
+    "pegawaiId": "26",
+    "nama": "Nina Oktaviani",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-12",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a24a"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-13",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71fd"
+  },
+  {
+    "pegawaiId": "3",
+    "nama": "Nanda Eka Putra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-13",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b8a1"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-13",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c6a"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-13",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d612"
+  },
+  {
+    "pegawaiId": "11",
+    "nama": "Putri Karina",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-13",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "657f"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-13",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "6630"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-13",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a04d"
+  },
+    {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f2"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b88c"
+  },
+  {
+    "pegawaiId": "3",
+    "nama": "Nanda Eka Putra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c55"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d5fd"
+  },
+  {
+    "pegawaiId": "8",
+    "nama": "Citra Ayu Lestari",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656a"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "661b"
+  },
+  {
+    "pegawaiId": "10",
+    "nama": "Salsa Maulida",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a038"
+  },
+  {
+    "pegawaiId": "11",
+    "nama": "Putri Karina",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14bb"
+  },
+  {
+    "pegawaiId": "19",
+    "nama": "Agus Santoso",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca83"
+  },
+  {
+    "pegawaiId": "20",
+    "nama": "Fajar Kurniawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3860"
+  },
+  {
+    "pegawaiId": "21",
+    "nama": "Dimas Aryo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be58"
+  },
+  {
+    "pegawaiId": "22",
+    "nama": "Bagus Wirawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe72"
+  },
+  {
+    "pegawaiId": "23",
+    "nama": "Yoga Prasetyo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-25",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a23d"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f3"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b88d"
+  },
+  {
+    "pegawaiId": "4",
+    "nama": "Prima Saputra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c56"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d5fe"
+  },
+  {
+    "pegawaiId": "12",
+    "nama": "Bella Anjani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656b"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "661c"
+  },
+  {
+    "pegawaiId": "13",
+    "nama": "Rizky Ananda",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a039"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14bc"
+  },
+  {
+    "pegawaiId": "19",
+    "nama": "Agus Santoso",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca84"
+  },
+  {
+    "pegawaiId": "24",
+    "nama": "Lestari Wulandari",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3861"
+  },
+  {
+    "pegawaiId": "21",
+    "nama": "Dimas Aryo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be59"
+  },
+  {
+    "pegawaiId": "25",
+    "nama": "Surya Aditya",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe73"
+  },
+  {
+    "pegawaiId": "26",
+    "nama": "Nina Oktaviani",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-26",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a23e"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-27",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b88e"
+  },
+  {
+    "pegawaiId": "3",
+    "nama": "Nanda Eka Putra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-27",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c57"
+  },
+  {
+    "pegawaiId": "8",
+    "nama": "Citra Ayu Lestari",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-27",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d5ff"
+  },
+  {
+    "pegawaiId": "12",
+    "nama": "Bella Anjani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-27",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656c"
+  },
+  {
+    "pegawaiId": "10",
+    "nama": "Salsa Maulida",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-27",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "661d"
+  },
+  {
+    "pegawaiId": "13",
+    "nama": "Rizky Ananda",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-27",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a03a"
+  },
+  {
+    "pegawaiId": "15",
+    "nama": "Dinda Maharani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-27",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14bd"
+  },
+  {
+    "pegawaiId": "20",
+    "nama": "Fajar Kurniawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-27",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca85"
+  },
+  {
+    "pegawaiId": "24",
+    "nama": "Lestari Wulandari",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-27",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3862"
+  },
+  {
+    "pegawaiId": "21",
+    "nama": "Dimas Aryo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-27",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be5a"
+  },
+  {
+    "pegawaiId": "22",
+    "nama": "Bagus Wirawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-27",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe74"
+  },
+  {
+    "pegawaiId": "1638",
+    "nama": "Olo Steven Panggabean",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-27",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a23f"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f4"
+  },
+  {
+    "pegawaiId": "3",
+    "nama": "Nanda Eka Putra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b88f"
+  },
+  {
+    "pegawaiId": "4",
+    "nama": "Prima Saputra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c58"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d600"
+  },
+  {
+    "pegawaiId": "11",
+    "nama": "Putri Karina",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656d"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "661e"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a03b"
+  },
+  {
+    "pegawaiId": "15",
+    "nama": "Dinda Maharani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14be"
+  },
+  {
+    "pegawaiId": "16",
+    "nama": "Fikri Hidayat",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14bf"
+  },
+  {
+    "pegawaiId": "19",
+    "nama": "Agus Santoso",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca86"
+  },
+  {
+    "pegawaiId": "20",
+    "nama": "Fajar Kurniawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3863"
+  },
+  {
+    "pegawaiId": "23",
+    "nama": "Yoga Prasetyo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be5b"
+  },
+  {
+    "pegawaiId": "25",
+    "nama": "Surya Aditya",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe75"
+  },
+  {
+    "pegawaiId": "26",
+    "nama": "Nina Oktaviani",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-28",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a240"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b890"
+  },
+  {
+    "pegawaiId": "4",
+    "nama": "Prima Saputra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c59"
+  },
+  {
+    "pegawaiId": "8",
+    "nama": "Citra Ayu Lestari",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d601"
+  },
+  {
+    "pegawaiId": "12",
+    "nama": "Bella Anjani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656e"
+  },
+  {
+    "pegawaiId": "10",
+    "nama": "Salsa Maulida",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "661f"
+  },
+  {
+    "pegawaiId": "13",
+    "nama": "Rizky Ananda",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a03c"
+  },
+  {
+    "pegawaiId": "17",
+    "nama": "Yuni Kurniasari",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14c0"
+  },
+  {
+    "pegawaiId": "18",
+    "nama": "Dian Sasmita",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14c1"
+  },
+  {
+    "pegawaiId": "20",
+    "nama": "Fajar Kurniawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca87"
+  },
+  {
+    "pegawaiId": "24",
+    "nama": "Lestari Wulandari",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3864"
+  },
+  {
+    "pegawaiId": "22",
+    "nama": "Bagus Wirawan",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be5c"
+  },
+  {
+    "pegawaiId": "23",
+    "nama": "Yoga Prasetyo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe76"
+  },
+  {
+    "pegawaiId": "1638",
+    "nama": "Olo Steven Panggabean",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-06-29",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a241"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-06-30",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f5"
+  },
+  {
+    "pegawaiId": "3",
+    "nama": "Nanda Eka Putra",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-30",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b891"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-06-30",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c5a"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-30",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d602"
+  },
+  {
+    "pegawaiId": "11",
+    "nama": "Putri Karina",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-30",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656f"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-30",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "6620"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-30",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a03d"
+  },
+  {
+    "pegawaiId": "16",
+    "nama": "Fikri Hidayat",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-06-30",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14c2"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f3"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b88d"
+  },
+  {
+    "pegawaiId": "4",
+    "nama": "Prima Saputra",
+    "jabatan": "Manager",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c56"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d5fe"
+  },
+  {
+    "pegawaiId": "12",
+    "nama": "Bella Anjani",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656b"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "661c"
+  },
+  {
+    "pegawaiId": "13",
+    "nama": "Rizky Ananda",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "a039"
+  },
+  {
+    "pegawaiId": "14",
+    "nama": "Andika Pratama",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "14bc"
+  },
+  {
+    "pegawaiId": "19",
+    "nama": "Agus Santoso",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "06:00",
+    "jamKeluar": "15:00",
+    "durasi": "9 jam",
+    "id": "ca84"
+  },
+  {
+    "pegawaiId": "24",
+    "nama": "Lestari Wulandari",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "07:00",
+    "jamKeluar": "16:00",
+    "durasi": "9 jam",
+    "id": "3861"
+  },
+  {
+    "pegawaiId": "21",
+    "nama": "Dimas Aryo",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "be59"
+  },
+  {
+    "pegawaiId": "25",
+    "nama": "Surya Aditya",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "fe73"
+  },
+  {
+    "pegawaiId": "26",
+    "nama": "Nina Oktaviani",
+    "jabatan": "Cleaning Staff",
+    "tanggal": "2025-07-01",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:00",
+    "durasi": "9 jam",
+    "id": "a23e"
+  },
+  {
+    "pegawaiId": "1",
+    "nama": "Jefry Afrio",
+    "jabatan": "Cinema Manager",
+    "tanggal": "2025-07-02",
+    "jamMasuk": "09:00",
+    "jamKeluar": "17:00",
+    "durasi": "8 jam",
+    "id": "71f5"
+  },
+  {
+    "pegawaiId": "3",
+    "nama": "Nanda Eka Putra",
+    "jabatan": "Manager",
+    "tanggal": "2025-07-02",
+    "jamMasuk": "07:30",
+    "jamKeluar": "16:00",
+    "durasi": "8.5 jam",
+    "id": "b891"
+  },
+  {
+    "pegawaiId": "2",
+    "nama": "Arief Budiman",
+    "jabatan": "Manager",
+    "tanggal": "2025-07-02",
+    "jamMasuk": "16:00",
+    "jamKeluar": "00:30",
+    "durasi": "8.5 jam",
+    "id": "2c5a"
+  },
+  {
+    "pegawaiId": "7",
+    "nama": "Melani Nur Azizah",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-07-02",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "d602"
+  },
+  {
+    "pegawaiId": "11",
+    "nama": "Putri Karina",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-07-02",
+    "jamMasuk": "07:00",
+    "jamKeluar": "15:30",
+    "durasi": "8.5 jam",
+    "id": "656f"
+  },
+  {
+    "pegawaiId": "9",
+    "nama": "Nadia Permata",
+    "jabatan": "Daily Worker",
+    "tanggal": "2025-07-02",
+    "jamMasuk": "15:30",
+    "jamKeluar": "00:00",
+    "durasi": "8.5 jam",
+    "id": "6620"
+  }
+]

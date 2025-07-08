@@ -1,0 +1,29 @@
+[
+    {
+      "jabatan": "",
+      "pegawaiId": {
+        "id": "2"
+      },
+      "tanggalMulai": "2025-06-09",
+      "tanggalSelesai": "2025-06-11",
+      "alasan": "Liburan keluarga",
+      "status": "Menunggu Persetujuan",
+      "id": "c1"
+    },
+    {
+      "id": "549f",
+      "jabatan": "Cleaning Staff",
+      "pegawaiId": {
+        "id": "1638",
+        "nama": "Olo Steven Panggabean",
+        "jabatan": "Cleaning Staff",
+        "email": "Olo2@gmail.com",
+        "no_telp": "0871563421",
+        "status": "Aktif"
+      },
+      "tanggalMulai": "2025-06-13",
+      "tanggalSelesai": "2025-06-27",
+      "alasan": "cape",
+      "status": "Menunggu Persetujuan"
+    }
+  ]

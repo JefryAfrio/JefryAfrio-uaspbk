@@ -1,0 +1,202 @@
+ [
+    {
+      "id": "1",
+      "nama": "Jefry Afrio ",
+      "jabatan": "Cinema Manager",
+      "email": "jefry.afrio@gmail.com",
+      "no_telp": "081234567890",
+      "status": "Aktif"
+    },
+    {
+      "id": "2",
+      "nama": "Arief Budiman",
+      "jabatan": "Manager",
+      "email": "arief.budiman@gmail.com",
+      "no_telp": "081987654321",
+      "status": "Aktif"
+    },
+    {
+      "id": "3",
+      "nama": "Nanda Eka Putra",
+      "jabatan": "Manager",
+      "email": "nanda.eka@gmail.com",
+      "no_telp": "081234567891",
+      "status": "Aktif"
+    },
+    {
+      "id": "4",
+      "nama": "Prima Saputra",
+      "jabatan": "Manager",
+      "email": "prima.saputra@gmail.com",
+      "no_telp": "081987654322",
+      "status": "Aktif"
+    },
+    {
+      "id": "7",
+      "nama": "Melani Nur Azizah",
+      "jabatan": "Daily Worker",
+      "email": "melani.azizah@gmail.com",
+      "no_telp": "081245678901",
+      "status": "Aktif"
+    },
+    {
+      "id": "8",
+      "nama": "Citra Ayu Lestari",
+      "jabatan": "Daily Worker",
+      "email": "citra.ayu@gmail.com",
+      "no_telp": "081334567890",
+      "status": "Aktif"
+    },
+    {
+      "id": "9",
+      "nama": "Nadia Permata",
+      "jabatan": "Daily Worker",
+      "email": "nadia.permata@gmail.com",
+      "no_telp": "081298765432",
+      "status": "Aktif"
+    },
+    {
+      "id": "10",
+      "nama": "Salsa Maulida",
+      "jabatan": "Daily Worker",
+      "email": "salsa.maulida@gmail.com",
+      "no_telp": "082112233445",
+      "status": "Aktif"
+    },
+    {
+      "id": "11",
+      "nama": "Putri Karina",
+      "jabatan": "Daily Worker",
+      "email": "putri.karina@gmail.com",
+      "no_telp": "081355667788",
+      "status": "Aktif"
+    },
+    {
+      "id": "12",
+      "nama": "Bella Anjani",
+      "jabatan": "Daily Worker",
+      "email": "bella.anjani@gmail.com",
+      "no_telp": "082233445566",
+      "status": "Aktif"
+    },
+    {
+      "id": "13",
+      "nama": "Rizky Ananda",
+      "jabatan": "Daily Worker",
+      "email": "rizky.ananda@gmail.com",
+      "no_telp": "089512345678",
+      "status": "Aktif"
+    },
+    {
+      "id": "14",
+      "nama": "Andika Pratama",
+      "jabatan": "Daily Worker",
+      "email": "andika.pratama@gmail.com",
+      "no_telp": "082134789012",
+      "status": "Aktif"
+    },
+    {
+      "id": "15",
+      "nama": "Dinda Maharani",
+      "jabatan": "Daily Worker",
+      "email": "dinda.maharani@gmail.com",
+      "no_telp": "082134567890",
+      "status": "Aktif"
+    },
+    {
+      "id": "16",
+      "nama": "Fikri Hidayat",
+      "jabatan": "Daily Worker",
+      "email": "fikri.hidayat@gmail.com",
+      "no_telp": "087876543210",
+      "status": "Aktif"
+    },
+    {
+      "id": "17",
+      "nama": "Yuni Kurniasari",
+      "jabatan": "Daily Worker",
+      "email": "yuni.kurniasari@gmail.com",
+      "no_telp": "085622334455",
+      "status": "Aktif"
+    },
+    {
+      "id": "18",
+      "nama": "Dian Sasmita",
+      "jabatan": "Daily Worker",
+      "email": "dian.sasmita@gmail.com",
+      "no_telp": "081998877665",
+      "status": "Aktif"
+    },
+    {
+      "id": "19",
+      "nama": "Agus Santoso",
+      "jabatan": "Cleaning Staff",
+      "email": "agus.santoso@gmail.com",
+      "no_telp": "082178945612",
+      "status": "Aktif"
+    },
+    {
+      "id": "20",
+      "nama": "Fajar Kurniawan",
+      "jabatan": "Cleaning Staff",
+      "email": "fajar.kurniawan@gmail.com",
+      "no_telp": "089901234567",
+      "status": "Aktif"
+    },
+    {
+      "id": "21",
+      "nama": "Dimas Aryo",
+      "jabatan": "Cleaning Staff",
+      "email": "dimas.aryo@gmail.com",
+      "no_telp": "085612345678",
+      "status": "Aktif"
+    },
+    {
+      "id": "22",
+      "nama": "Bagus Wirawan",
+      "jabatan": "Cleaning Staff",
+      "email": "bagus.wirawan@gmail.com",
+      "no_telp": "083898765432",
+      "status": "Aktif"
+    },
+    {
+      "id": "23",
+      "nama": "Yoga Prasetyo",
+      "jabatan": "Cleaning Staff",
+      "email": "yoga.prasetyo@gmail.com",
+      "no_telp": "087711223344",
+      "status": "Aktif"
+    },
+    {
+      "id": "24",
+      "nama": "Lestari Wulandari",
+      "jabatan": "Cleaning Staff",
+      "email": "lestari.wulandari@gmail.com",
+      "no_telp": "081223344556",
+      "status": "Aktif"
+    },
+    {
+      "id": "25",
+      "nama": "Surya Aditya",
+      "jabatan": "Cleaning Staff",
+      "email": "surya.aditya@gmail.com",
+      "no_telp": "082144556677",
+      "status": "Aktif"
+    },
+    {
+      "id": "26",
+      "nama": "Nina Oktaviani",
+      "jabatan": "Cleaning Staff",
+      "email": "nina.oktaviani@gmail.com",
+      "no_telp": "085566778899",
+      "status": "Aktif"
+    },
+    {
+      "id": "1638",
+      "nama": "Olo Steven Panggabean",
+      "jabatan": "Cleaning Staff",
+      "email": "Olo2@gmail.com",
+      "no_telp": "0871563421",
+      "status": "Aktif"
+    }
+  ]
