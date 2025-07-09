@@ -2,28 +2,49 @@
     {
       "jabatan": "",
       "pegawaiId": {
-        "id": "2"
+        "id": "1",
+        "nama": "Jefry Afrio",
+        "jabatan": "Cinema Manager",
+        "email": "jefry.afrio@gmail.com",
+        "no_telp": "081234567890",
+        "status": "Aktif"
+      },
+      "tanggalMulai": "2025-06-01",
+      "tanggalSelesai": "2025-06-09",
+      "alasan": "Liburan keluarga",
+      "status": "Disetujui",
+      "id": "c2"
+    },
+    {
+      "jabatan": "",
+      "pegawaiId": {
+        "id": "2",
+        "nama": "Arief Budiman",
+        "jabatan": "Manager",
+        "email": "arief.budiman@gmail.com",
+        "no_telp": "081987654321",
+        "status": "Aktif"
       },
       "tanggalMulai": "2025-06-09",
       "tanggalSelesai": "2025-06-11",
-      "alasan": "Liburan keluarga",
-      "status": "Menunggu Persetujuan",
+      "alasan": "Pernikahan",
+      "status": "Disetujui",
       "id": "c1"
     },
     {
-      "id": "549f",
-      "jabatan": "Cleaning Staff",
+      "jabatan": "",
       "pegawaiId": {
-        "id": "1638",
-        "nama": "Olo Steven Panggabean",
+        "id": "24",
+        "nama": "Lestari Wulandari",
         "jabatan": "Cleaning Staff",
-        "email": "Olo2@gmail.com",
-        "no_telp": "0871563421",
+        "email": "lestari.wulandari@gmail.com",
+        "no_telp": "081223344556",
         "status": "Aktif"
       },
-      "tanggalMulai": "2025-06-13",
-      "tanggalSelesai": "2025-06-27",
-      "alasan": "cape",
-      "status": "Menunggu Persetujuan"
+      "tanggalMulai": "2025-08-01",
+      "tanggalSelesai": "2025-08-22",
+      "alasan": "Acara Keluarga ",
+      "status": "Disetujui",
+      "id": "93ad"
     }
   ]
